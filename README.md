@@ -1,4 +1,4 @@
-#### 이병현  | BOJ PS 20210721부터
+#### 이병현  | BOJ PS러
 
 #### Language
 <div>

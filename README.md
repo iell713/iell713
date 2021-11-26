@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=IELL&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=Gradient&height=200&section=header&text=IELL&fontSize=90" />
 
 #### Languages
 <div>

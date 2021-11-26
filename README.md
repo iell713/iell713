@@ -1,4 +1,4 @@
-#### 이병현  | BOJ PS러
+#### 이병현  | BOJ PS 입문
 
 #### Language
 <div>

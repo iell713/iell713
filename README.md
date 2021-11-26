@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=100&section=header&text=IELL%20병현&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=IELL&fontSize=40" />
 
 #### Languages
 <div>

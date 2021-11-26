@@ -7,6 +7,5 @@
   
 #### Solved.ac
 <div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iell)](https://solved.ac/iell)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iell"/>
 <div>
